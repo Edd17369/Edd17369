@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo Pereyra
 - 👀 I’m interested in programming lenguages
-- 🌱 I’m currently learning python and postgres
+- 🌱 I’m currently learning python, postgres and js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email zpej2018@gmail.com
 
